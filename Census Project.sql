@@ -1,4 +1,4 @@
-    census project
+
     
     select * from dataset2;
 	select * from dataset1;
